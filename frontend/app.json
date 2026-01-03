@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "GoToMeal",
+    "slug": "GoToMeal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Adaptive.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.monthahaider.GoToMeal"
+    },
+    "web": {
+      "favicon": "./assets/Favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f8f5ee8f-77f5-4a5b-b76b-57ff9e2f5ef4"
+      }
+    }
+  }
+}

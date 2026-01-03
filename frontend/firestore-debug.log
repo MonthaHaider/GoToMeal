@@ -1,0 +1,34 @@
+Dec 08, 2025 11:34:33 AM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketServer start
+INFO: Started WebSocket server on ws://127.0.0.1:9151
+API endpoint: http://127.0.0.1:8082
+If you are using a library that supports the FIRESTORE_EMULATOR_HOST environment variable, run:
+
+   export FIRESTORE_EMULATOR_HOST=127.0.0.1:8082
+
+If you are running a Firestore in Datastore Mode project, run:
+
+   export DATASTORE_EMULATOR_HOST=127.0.0.1:8082
+
+Note: Support for Datastore Mode is in preview. If you encounter any bugs please file at https://github.com/firebase/firebase-tools/issues.
+Dev App Server is now running.
+
+Dec 08, 2025 11:34:33 AM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler initChannel
+INFO: Connected to new websocket client
+Dec 08, 2025 11:35:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+Dec 08, 2025 11:35:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /assets/Rolling-1s.dfee8a1a.svg
+Dec 08, 2025 11:35:57 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /assets/Rolling-1s.dfee8a1a.svg
+Dec 08, 2025 11:35:59 AM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler channelClosed
+INFO: Websocket client disconnected
+Dec 08, 2025 11:35:59 AM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler initChannel
+INFO: Connected to new websocket client
+Dec 08, 2025 11:36:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /assets/Rolling-1s.dfee8a1a.svg
+Dec 08, 2025 11:36:07 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /assets/Rolling-1s.dfee8a1a.svg
+Dec 08, 2025 11:36:07 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /assets/Rolling-1s.dfee8a1a.svg
+Dec 08, 2025 12:24:46 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler channelClosed
+INFO: Websocket client disconnected
